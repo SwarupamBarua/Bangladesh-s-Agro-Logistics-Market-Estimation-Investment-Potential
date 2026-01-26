@@ -1,3 +1,5 @@
 This repository contains the draft report, Excel data, and calculations from the stocktaking exercise of agro-logistics in Bangladesh. 
 The draft report is based on an estimate of Bangladesh's agro-logistics market size and investment potential for FY 2023-24.
 The Excel data and calculations are on the agro-logistics commodity-wise market surplus, output in storage, value-added services, and total market size estimation.   
+
+The stocktaking exercise of agro-logistics in Bangladesh is implemented by the Embassy of the Kingdom of the Netherlands (EKN) in Dhaka, Bangladesh, to estimate the current market value of agro-logistics in Bangladesh (overall and by commodity); identify growth trends, demand drivers, and supply gaps; assess existing investments (public and private) in agro-logistics; identify current investments and financing mechanisms; mapping available financial instruments; and highlight opportunities for FDI, PPPs, and private sector engagement (e.g., cold chain, processing, logistics tech solutions).
